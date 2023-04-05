@@ -48,8 +48,7 @@ Now, our model is done and it's time to implement it on Heroku website using str
 
 ![Final Output](https://miro.medium.com/max/1400/1*-ufILM9FuLKCBFIofjvjWw.png)
 
-Here is the look of the Movie Recommender System.
-Link for the app: https://bhupesh-mrs.herokuapp.com/
+The link for the website has expired after 1 year.
 
 ## Conclusion
 
